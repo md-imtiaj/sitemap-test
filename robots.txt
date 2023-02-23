@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://md-imtiaj.github.io/sitemap-test/sitemap.txt
-Sitemap: https://md-imtiaj.github.io/sitemap-test/sitemap.xml
+Sitemap: https://sitemap-test-github.1111110.xyz/sitemap.txt
+Sitemap: https://sitemap-test-github.1111110.xyz/sitemap.xml
