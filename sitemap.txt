@@ -1,2 +1,3 @@
-https://sitemap-test.pages.dev/
-https://sitemap-test.pages.dev/page
+https://md-imtiaj.github.io/sitemap-test/
+https://md-imtiaj.github.io/sitemap-test/page
+https://md-imtiaj.github.io/sitemap-test/index
